@@ -10,5 +10,6 @@
  <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3lvbvr9igQ4AwQXLtLdEcfpH3FoIz-A8jQ&s">
  </a>
 <br>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+<![](https://komarev.com/ghpvc/?username=your-github-username)>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
