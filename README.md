@@ -6,12 +6,8 @@
 
  ### Entre em contato comigo:
  <br>
- <a src="https://www.linkedin.com/in/rodolfo-costa-6234791b5/">
+ <a href="https://www.linkedin.com/in/rodolfo-costa-6234791b5/">
  <img height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr3lvbvr9igQ4AwQXLtLdEcfpH3FoIz-A8jQ&s">
  </a>
-<br>
-<![](https://komarev.com/ghpvc/?username=your-github-username)>
-<br>
-<br>
-<[![rodolfo stats](https://github-readme-stats.vercel.app/api?username=rodolfo-costa1031)](https://github.com/anuraghazra/github-readme-stats)>
+
 
